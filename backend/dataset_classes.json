@@ -1,0 +1,28 @@
+{
+    "classes": [
+        "freshapples",
+        "freshbanana",
+        "freshbittergroud",
+        "freshcapsicum",
+        "freshcucumber",
+        "freshokra",
+        "freshoranges",
+        "freshpatato",
+        "freshpotato",
+        "freshtamto",
+        "freshtomato",
+        "rottenapples",
+        "rottenbanana",
+        "rottenbittergroud",
+        "rottencapsicum",
+        "rottencucumber",
+        "rottenokra",
+        "rottenoranges",
+        "rottenpatato",
+        "rottenpotato",
+        "rottentamto",
+        "rottentomato"
+    ],
+    "num_classes": 22,
+    "description": "List of food item classes (fresh and rotten) in the dataset."
+}
